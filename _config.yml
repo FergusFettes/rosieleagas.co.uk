@@ -19,13 +19,15 @@ color:
 footer:
   copyright: Rosie Leagas
   location: Location
-  social: LinkedIn
+  social: LinkedIn/Instagram
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
     url: https://www.linkedin.com/in/rosie-wilson-leagas-5997683a
+  - title: instagram
+    url: https://www.instagram.com/wantonwellsfarm/
 
 # Postal address (add as many lines as necessary)
 address:
