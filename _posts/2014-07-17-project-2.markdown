@@ -3,8 +3,7 @@ layout: default
 title: Tourism
 modal-id: 2
 date: 2014-07-17
-img: cake.png
-alt: image-alt
+img: https://lh3.googleusercontent.com/6gr6z9ENRNe874QBxvpOZH2NuA5361bRsH4FHC0md_a3BSNjOXguVBgpoNQm8-OmKbzfI0MWBF20JBZSrSq9Oa3Rv5OP-xyyqsQqc0s0QchhASilvAtSSq_ngfsSby29EjKD7eLSDx8=w2400
 project-date: April 2014
 description: |
   I first moved to Aberdeenshire to study Zoology at the University of Aberdeen. During my studies I was a volunteer worker at Haddo house.

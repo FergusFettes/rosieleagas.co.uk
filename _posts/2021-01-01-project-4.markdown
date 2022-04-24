@@ -3,9 +3,7 @@ layout: default
 title: Enterprise
 modal-id: 4
 date: 2021-01-01
-img: cabin.png
-alt: image-alt
-project-date: January 2021
+img: https://lh3.googleusercontent.com/akMZiHKH52oG6L3zV3RVgawlGjZsFe6fht4mfrEadW1I-8q3ITYi1TQ5BUo9OgbZ82_tYAWx1w4b4rdiwjnLMRL9B9ZICB4d-8uBSwpNg85vYxUoCQdHjr_xQsi5bgaw5r83lCzPPUg=w2400
 description: |
   Soon after my daughter moved home to work on the farm, she became the manager of Leith Hall. There I started running the cafe, using vegetables grown in the Hall Gardens and products from our farm.
   At the same time, we started doing a monthly stall at Huntly Farmers market, selling local organically grown vegetables at affordable prices. Perhaps you have met me there!

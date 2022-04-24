@@ -3,8 +3,7 @@ layout: default
 title: Hospitality
 modal-id: 1
 date: 2014-07-18
-img: cabin.png
-alt: image-alt
+img: https://lh3.googleusercontent.com/RS9nTO7iZ1DtnUifi3tNvbGznixkOGqud4V3HRKV_UdyPwIzzIxnBXZtpkjmd4cybVlemzW9EQTiXvVqOy8s68VklpEVUGVW6crhCUz-ShelIuO6748A_JhkcocU4HICz8d3G234rjk=w2400
 project-date: April 2014
 description: |
   After university, I moved with my young family to Gardenstown on the north coast. There I ran the villiage pub and restaurant, preparing meals with fish, prawns and crabs sourced directly from local fishermen, who would carry them up from the harbour in a bucket.
