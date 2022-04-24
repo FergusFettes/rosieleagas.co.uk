@@ -8,6 +8,9 @@ keywords: "aberdeenshire council"
 skills: "Forestry -- Farming -- Hospitality"
 meta_author: Leagas Rosie
 
+analytics:
+  id: UA-226995523-1
+
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: 18bc9c #80B3FF
