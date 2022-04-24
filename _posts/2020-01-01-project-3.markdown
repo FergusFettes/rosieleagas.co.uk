@@ -1,9 +1,14 @@
 ---
 layout: default
+title: Farming/Forestry
 modal-id: 3
 date: 2020-01-01
 img: cake.png
 alt: image-alt
 project-date: January 2020
-description: After Gardenstown, we moved to Insch where we bought a farm. This is the farm that I am still working on an developing to this day, with help from my children.
+description: |
+  After Gardenstown, we moved to Insch where we bought a farm. This is the farm that I am still working on and developing to this day, with help from my children.
+  We have put some of the farm into trees, and are developing the remaining farmland into a market garden. We have a monthly stall at the Huntly Farmers Market where we sell our produce.
+  As the trees were maturing, I wen't back to university to obtain a Masters degree in Forestry. This programme included courses about the impact of Forestry on local business and enterprise.
+  I am also on the board of the Royal Scottish Forestry Society, and am in regular attendance at the Native Woodland Discussion Group.
 ---

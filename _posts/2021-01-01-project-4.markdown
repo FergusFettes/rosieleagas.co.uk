@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Enterprise
 modal-id: 4
 date: 2021-01-01
 img: cabin.png
@@ -8,4 +9,5 @@ project-date: January 2021
 description: |
   Soon after my daughter moved home to work on the farm, she became the manager of Leith Hall. There I started running the cafe, using vegetables grown in the Hall Gardens and products from our farm.
   At the same time, we started doing a monthly stall at Huntly Farmers market, selling local organically grown vegetables at affordable prices. Perhaps you have met me there!
+  The farm enterprise is currently taking part in a business accelerator programme run the Robert Gordons Univeristy in Aberdeen. Through this, we are learning how to creat a successful business in a rural economy that can make a positive difference to the climate, peoples diets, and ultimately peoples lives.
 ---
